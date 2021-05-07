@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tymoteusz, young programmer from <img src="https://image.flaticon.com/icons/svg/197/197529.svg" width="13"/> <b>Poland</b>
+<p>Welcome to my page! </br> I'm Tymek, young programmer from <img src="https://image.flaticon.com/icons/svg/197/197529.svg" width="13"/> <b>Poland</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=white" />
