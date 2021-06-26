@@ -19,7 +19,7 @@
 </p>
 
 <h3>What I'm doing now</h3>
-I'm currently developing the C$ programming language in C++ and I'm improving at writing web backend in C#
+I'm currently developing the C$ programming language in C++, I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript)
 
 <h3>Contact</h3>
   <a href="https://discord.gg/nvrqum3">
