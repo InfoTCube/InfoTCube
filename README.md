@@ -8,20 +8,25 @@
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="bootstarp" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img alt="ms sql" src="https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
+  <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-  <img alt="visual studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="visual studio code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />
+  <img alt="pop!_os" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
 </p>
 
 <h3>What I'm doing now</h3>
-I'm currently developing the C$ programming language in C++, I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript)
+Currently, I'm developing the C$ programming language in C++ and I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript)
 
 <h3>Contact</h3>
-  <a href="https://discord.gg/nvrqum3">
-    <img align="left" alt="Tymoteusz Marzec's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
+    <img align="left" alt="Tymoteusz Marzec's Discord" src="https://img.shields.io/badge/-Info%20Cube%236039-5865F2?style=flat-square&logo=Discord&logoColor=white" />
+    <br/>
+    <a href="mailto:tymoteusz.marzec.dev@gmail.com">
+      <img align="left" alt="Tymoteusz Marzec's Mail" src="https://img.shields.io/badge/-tymoteusz.marzec.dev@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
+    </a>
+    
