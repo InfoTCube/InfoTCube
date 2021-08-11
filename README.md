@@ -24,7 +24,9 @@
 Currently, I'm developing the C$ programming language in C++ and I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript)
 
 <h3>Contact</h3>
-    <img align="left" alt="Tymoteusz Marzec's Discord" src="https://img.shields.io/badge/-Info%20Cube%236039-5865F2?style=flat-square&logo=Discord&logoColor=white" />
+    <a href="https://discord.com/users/671790729676324867">
+      <img align="left" alt="Tymoteusz Marzec's Discord" src="https://img.shields.io/badge/-Info%20Cube%236039-5865F2?style=flat-square&logo=Discord&logoColor=white" />
+    </a>
     <br/>
     <a href="mailto:tymoteusz.marzec.dev@gmail.com">
       <img align="left" alt="Tymoteusz Marzec's Mail" src="https://img.shields.io/badge/-tymoteusz.marzec.dev@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
