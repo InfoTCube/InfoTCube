@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Tymek, young programmer from <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="13"/> <b>Poland</b>
