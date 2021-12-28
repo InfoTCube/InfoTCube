@@ -26,7 +26,7 @@
 </p>
 
 <h3>What I'm doing now</h3>
-Currently I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript) and I work on OOOZet disocrd bot.
+Currently I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript) and I am working on OOOZet disocrd bot.
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/671790729676324867">
