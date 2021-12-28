@@ -2,26 +2,31 @@
 
 
 <p>Welcome to my page! </br> I'm Tymek, young programmer from <img src="https://flagicons.lipis.dev/flags/4x3/pl.svg" width="13"/> <b>Poland</b>
-<h3>Things I code with</h3>
+<h3>Things I am focusing on</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20sharp&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
+</p>
+
+<h3>Things I also code with</h3>
+<p>
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="bootstarp" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="visual studio code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="pop!_os" src="https://img.shields.io/badge/-Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white" />
-  <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" />
+  <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-34be5b?style=flat-square&logo=Manjaro&logoColor=white" />
+  <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
 </p>
 
 <h3>What I'm doing now</h3>
-Currently, I'm developing the C$ programming language in C++ and I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript)
+Currently I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript) and I work on OOOZet disocrd bot.
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/671790729676324867">
