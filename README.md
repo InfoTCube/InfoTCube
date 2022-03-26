@@ -37,4 +37,10 @@ Currently I'm improving at writing web backend in C# and web frontend in angular
     <a href="mailto:tymoteusz.marzec.dev@gmail.com">
       <img align="left" alt="Tymoteusz Marzec's Mail" src="https://img.shields.io/badge/-tymoteusz.marzec.dev@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
     </a>
-    
+
+<br/>
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/InfoTCube/count.svg" />
+</p>
