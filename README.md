@@ -24,6 +24,7 @@
   <img alt="visual studio code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="manjaro" src="https://img.shields.io/badge/-Manjaro-34be5b?style=flat-square&logo=Manjaro&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+  <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat-square&logo=brave&logoColor=white">
 </p>
 
 <h3>What I'm doing now</h3>
@@ -41,10 +42,8 @@ Currently I'm improving at writing web backend in C# and web frontend in angular
 <br/>
 <hr>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infotcube&show_icons=true&locale=en&layout=compact&theme=tokyonight"             alt="infotcube" />
-</p>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=infotcube&show_icons=true&locale=en&theme=tokyonight" alt="infotcube" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=infotcube&show_icons=true&locale=en&layout=compact&theme=tokyonight"    alt="infotcube" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=infotcube&show_icons=true&locale=en&theme=tokyonight" alt="infotcube" />
 </p>
 
 <p align="center"> 
