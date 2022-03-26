@@ -41,6 +41,13 @@ Currently I'm improving at writing web backend in C# and web frontend in angular
 <br/>
 <hr>
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=infotcube&show_icons=true&locale=en&layout=compact&theme=tokyonight"             alt="infotcube" />
+</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=infotcube&show_icons=true&locale=en&theme=tokyonight" alt="infotcube" />
+</p>
+
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/InfoTCube/count.svg" />
 </p>
