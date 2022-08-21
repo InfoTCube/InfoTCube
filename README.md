@@ -28,7 +28,8 @@
 </p>
 
 <h3>What I'm doing now</h3>
-Currently I'm improving at writing web backend in C# and web frontend in angular(html, css, typescript) and I am working on OOOZet discord bot.
+<li><a href="https://github.com/InfoTCube/TrainAlgs">TrainAlgs</a> (Angular & C#)</li>
+<li><a href="https://github.com/InfoTCube/Brass">Brass</a> (C#)</li> 
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/671790729676324867">
