@@ -43,7 +43,7 @@
 <br/>
 <hr>
 <p align="center"> 
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=infotcube&show_icons=true&locale=en&layout=compact&theme=tokyonight"    alt="infotcube" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=infotcube&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"    alt="infotcube" />
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=infotcube&show_icons=true&locale=en&theme=tokyonight" alt="infotcube" />
 </p>
 
