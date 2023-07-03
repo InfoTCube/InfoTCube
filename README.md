@@ -14,7 +14,7 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-29BEB0?style=flat-square&logo=Go&logoColor=white" />
   <img alt="html" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="bootstarp" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
