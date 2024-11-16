@@ -34,6 +34,7 @@
 
 <h3>What I'm doing now</h3>
 <li><a href="https://github.com/InfoTCube/TrainAlgs">TrainAlgs</a> (Angular & C#)</li>
+<li><a href="https://github.com/InfoTCube/SITS">SITS</a> (NextJS & C#)</li>
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/671790729676324867">
