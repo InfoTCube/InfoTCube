@@ -34,7 +34,7 @@
 
 <h3>What I'm doing now</h3>
 <li><a href="https://github.com/InfoTCube/TrainAlgs">TrainAlgs</a> (Angular & C#)</li>
-<li><a href="https://github.com/InfoTCube/SITS">SITS</a> (NextJS & C#)</li>
+<li><a href="https://github.com/InfoTCube/CritiCode">CritiCode</a> (NextJS & C#)</li>
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/671790729676324867">
@@ -42,7 +42,7 @@
     </a>
     <br/>
     <a href="mailto:tymoteusz.marzec.dev@gmail.com">
-      <img align="left" alt="Tymoteusz Marzec's Mail" src="https://img.shields.io/badge/-tymoteusz.marzec.dev@gmail.com-EA4335?style=flat-                      square&logo=Gmail&logoColor=white" />
+      <img align="left" alt="Tymoteusz Marzec's Mail" src="https://img.shields.io/badge/-tymoteusz.marzec.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
     </a>
 
 <br/>
