@@ -37,10 +37,12 @@
 <li><a href="https://github.com/InfoTCube/CritiCode">CritiCode</a> (NextJS & C#)</li>
 
 <h3>Contact</h3>
+    <a href="https://www.linkedin.com/in/tymoteusz-marzec-dev/">
+      <img align="left" alt="Tymoteusz Marzec's Linkedin" src="https://img.shields.io/badge/-Tymoteusz Marzec-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+    </a>
     <a href="https://discord.com/users/671790729676324867">
       <img align="left" alt="Tymoteusz Marzec's Discord" src="https://img.shields.io/badge/-Info%20Cube%236039-5865F2?style=flat-square&logo=Discord&logoColor=white" />
     </a>
-    <br/>
     <a href="mailto:tymoteusz.marzec.dev@gmail.com">
       <img align="left" alt="Tymoteusz Marzec's Mail" src="https://img.shields.io/badge/-tymoteusz.marzec.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
     </a>
