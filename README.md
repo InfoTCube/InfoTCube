@@ -1,8 +1,7 @@
 <h1><img src="https://www.emojiall.com/images/60/skype/1f427.png" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tymek, young programmer from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="13"/> <b>Poland</b>
-interesed in .NET and quantum computing
+<p>Welcome to my page! </br> I'm Tymek, young programmer from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="13"/> <b>Poland</b>, currently studying at Wrocław University of Science and Technology, interested in .NET and quantum computing
 <h3>Things I am focusing on</h3>
 <p>
   <img alt=".net" src="https://img.shields.io/badge/-.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white" />
