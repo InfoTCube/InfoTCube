@@ -34,6 +34,7 @@
 </p>
 
 <h3>What I'm doing now</h3>
+<li><a href="https://github.com/InfoTCube/Qubit.NET">Qubit.NET</a> (C#)</li>
 <li><a href="https://github.com/InfoTCube/TrainAlgs">TrainAlgs</a> (Angular & C#)</li>
 <li><a href="https://github.com/InfoTCube/CritiCode">CritiCode</a> (NextJS & C#)</li>
 <li>There are a lot more non-public projects I'm working on (NextJS, React, C# & Java)</li>
