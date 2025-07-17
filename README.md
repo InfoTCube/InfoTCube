@@ -35,9 +35,9 @@
 
 <h3>What I'm doing now</h3>
 <li><a href="https://github.com/InfoTCube/Qubit.NET">Qubit.NET</a> (C#)</li>
-<li><a href="https://github.com/InfoTCube/TrainAlgs">TrainAlgs</a> (Angular & C#)</li>
-<li><a href="https://github.com/InfoTCube/CritiCode">CritiCode</a> (NextJS & C#)</li>
-<li>There are a lot more non-public projects I'm working on (NextJS, React, C# & Java)</li>
+<li><a href="https://github.com/InfoTCube/Planlytic">Planlytic</a> (React & C#)</li>
+<li><a href="https://github.com/KN-Langos/Patapim">Patapim</a> (Zig)</li>
+<li>There are a lot more non-public projects I'm working on (NextJS, React, C# and more)</li>
 
 <h3>Contact</h3>
     <a href="https://www.linkedin.com/in/tymoteusz-marzec-dev/">
@@ -55,9 +55,4 @@
 <p align="center"> 
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=infotcube&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"    alt="infotcube" />
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=infotcube&show_icons=true&locale=en&theme=tokyonight" alt="infotcube" />
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/InfoTCube/count.svg" />
 </p>
